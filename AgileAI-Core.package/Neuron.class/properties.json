@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Perceptron",
+	"category" : "AgileAI-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"activationFunction",
+		"delta",
+		"output"
+	],
+	"name" : "Neuron",
+	"type" : "normal"
+}

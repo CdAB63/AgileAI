@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "AgileAI-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"previousLayer",
+		"nextLayer",
+		"neurons",
+		"learningRate"
+	],
+	"name" : "NeuronLayer",
+	"type" : "normal"
+}

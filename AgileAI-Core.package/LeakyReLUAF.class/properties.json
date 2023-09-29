@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "ActivationFunction",
+	"category" : "AgileAI-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"slope1",
+		"slope2",
+		"offset"
+	],
+	"name" : "LeakyReLUAF",
+	"type" : "normal"
+}

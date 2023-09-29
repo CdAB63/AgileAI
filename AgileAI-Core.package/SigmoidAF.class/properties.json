@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "ActivationFunction",
+	"category" : "AgileAI-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SigmoidAF",
+	"type" : "normal"
+}
