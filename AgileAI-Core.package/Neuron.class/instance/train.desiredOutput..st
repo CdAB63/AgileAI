@@ -1,4 +1,4 @@
-operations
+training
 train: inputs desiredOutput: desiredOutput
 
 	| diff |

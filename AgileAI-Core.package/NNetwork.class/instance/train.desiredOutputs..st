@@ -1,4 +1,4 @@
-operations
+training
 train: someInputs desiredOutputs: desiredOutputs
 
 	self feed: someInputs.

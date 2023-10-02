@@ -1,4 +1,4 @@
-operations
+training
 updateWeight
 
 	| inputs |

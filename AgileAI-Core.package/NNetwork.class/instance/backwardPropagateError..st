@@ -1,4 +1,4 @@
-operations
+training
 backwardPropagateError: expectedOutputs
 
 	self outputLayer backwardPropagateError: expectedOutputs

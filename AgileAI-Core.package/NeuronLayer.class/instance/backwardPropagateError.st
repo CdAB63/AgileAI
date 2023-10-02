@@ -1,4 +1,4 @@
-operations
+training
 backwardPropagateError
 	
 	self neurons doWithIndex: [ :neuron :idx |

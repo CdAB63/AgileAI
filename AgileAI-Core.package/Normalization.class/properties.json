@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "AgileAI-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"layers",
+		"errors",
+		"precisions"
+	],
+	"name" : "Normalization",
+	"type" : "normal"
+}

@@ -1,4 +1,4 @@
-operations
+training
 backwardPropagateError: expected
 
 	self neurons with: expected do: [ :neuron :exp |
